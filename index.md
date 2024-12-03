@@ -14,6 +14,6 @@ Professional Construct 3 assistance — game development support, problem-solvin
 <br>
 
 <p style="text-align:center; letter-spacing:10px">
-<a href="mailto:hi@mrveato.com"><i class="fa-solid fa-envelope fa-beat fa-2xl" style="color: #000000;"></i></a>
+<a href="mailto:hi@mrveato.com"><i class="fa-solid fa-envelope fa-beat fa-xl" style="color: #000000;"></i></a>
 hi@mrveato.com
 </p>
