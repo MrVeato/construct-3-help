@@ -9,8 +9,8 @@
 
 <p style="text-align:center">Professional Construct 3 assistance — game development support, problem-solving, optimization.</p>
 <br>
-[Games](https://mrveato.com/games)
+[GAMES](https://mrveato.com/games)
 
 <p style="text-align:center; letter-spacing:10px">
-<a href="mailto:hi@mrveato.com"><i class="fa-solid fa-envelope fa-xl" style="color: #000000;"> hi@mrveato.com</i></a>
+<a href="mailto:hi@mrveato.com"><i class="fa-solid fa-envelope fa-lg" style="color: #000000;"> hi@mrveato.com</i></a>
 </p>
