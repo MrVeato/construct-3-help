@@ -1,4 +1,4 @@
-<meta name="description" content="Professional Construct 3 assistance — game development support, problem-solving, optimization"/>
+<meta name="description" content="Professional Construct 3 consultant assistance — game development support, problem-solving, optimization"/>
 <meta name="author" content="⋈ Mr. Veato, hi@mrveato.com">
 <meta name="reply-to" content="hi@mrveato.com">
 <link rel="stylesheet" type="text/css" href="style.css">
@@ -7,7 +7,7 @@
 
 <h2 style="text-align:center">Construct 3 Help</h2>
 
-<p style="text-align:center">Professional Construct 3 assistance — game development support, problem-solving, optimization.</p>
+<p style="text-align:center">Professional Construct 3 consultant assistance — game development support, problem-solving, optimization.</p>
 <p style="text-align:center"><a href="https://mrveato.com/games">GAMES</a></p>
 <br>
 
