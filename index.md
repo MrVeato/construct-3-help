@@ -8,7 +8,7 @@
 <h2 style="text-align:center">Construct 3 Help</h2>
 <br>
 
-<p style="text-align:center">Professional Construct 3 assistance — game development support, problem-solving, optimization</p>
+<p style="text-align:center">Professional Construct 3 assistance — game development support, problem-solving, optimization.</p>
 <br>
 
 <p style="text-align:center; letter-spacing:10px">
