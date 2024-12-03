@@ -12,5 +12,6 @@
 [GAMES](https://mrveato.com/games)
 
 <p style="text-align:center; letter-spacing:10px">
-<a href="mailto:hi@mrveato.com"><i class="fa-solid fa-envelope fa-lg" style="color: #000000;"> hi@mrveato.com</i></a>
+<a href="mailto:hi@mrveato.com"><i class="fa-solid fa-envelope fa-beat fa-2xl" style="color: #000000;"></i></a>
+hi@mrveato.com
 </p>
