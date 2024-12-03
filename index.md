@@ -11,7 +11,7 @@
 <p style="text-align:center"><a href="https://mrveato.com/games">GAMES</a></p>
 <br>
 
-<p style="text-align:center; letter-spacing:10px">
+<p style="text-align:center">
 <a href="mailto:hi@mrveato.com"><i class="fa-solid fa-envelope fa-beat" style="color: #000000;"></i></a>
 hi@mrveato.com
 </p>
