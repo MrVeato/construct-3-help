@@ -7,13 +7,12 @@
 
 <h2 style="text-align:center">Construct 3 Help</h2>
 
-<p style="text-align:center">
-Professional Construct 3 assistance — game development support, problem-solving, optimization.
-<a href="[mailto:hi@mrveato.com](https://mrveato.com/games)">GAMES</a>
-</p>
+<p style="text-align:center">Professional Construct 3 assistance — game development support, problem-solving, optimization.</p>
+<p style="text-align:center"><a href="[mailto:hi@mrveato.com](https://mrveato.com/games)">GAMES</a></p>
+
 <br>
 
 <p style="text-align:center; letter-spacing:10px">
-<a href="mailto:hi@mrveato.com"><i class="fa-solid fa-envelope fa-beat fa-xl" style="color: #000000;"></i></a>
+<a href="mailto:hi@mrveato.com"><i class="fa-solid fa-envelope fa-beat fa-lg" style="color: #000000;"></i></a>
 hi@mrveato.com
 </p>
