@@ -6,11 +6,11 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 <h2 style="text-align:center">Construct 3 Help</h2>
-\
-\
-\
-\
-\
+<br>
+<br>
+<br>
+<br>
+<br>
 
 Professional Construct 3 assistance — game development support, problem-solving, optimization.
 
