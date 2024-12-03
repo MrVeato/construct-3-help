@@ -1,0 +1,16 @@
+<meta name="description" content="Professional Construct 3 assistance: game development support, problem-solving, and optimization"/>
+<meta name="author" content="⋈ Mr. Veato, hi@mrveato.com">
+<meta name="reply-to" content="hi@mrveato.com">
+<link rel="stylesheet" type="text/css" href="style.css">
+<script src="https://kit.fontawesome.com/2863ef2463.js" crossorigin="anonymous"></script>
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
+<h2 style="text-align:center">Construct 3 Help</h2>
+
+Professional Construct 3 assistance: game development support, problem-solving, and optimization.
+
+***
+
+<p style="text-align:center; letter-spacing:10px">
+<a href="mailto:hi@mrveato.com"><i class="fa-regular fa-envelope fa-xl" style="color: #000000;"></i></a>
+</p>

@@ -1,0 +1,19 @@
+header {
+  display: none;
+}
+
+body {
+  font-size: 16px;
+}
+
+footer {
+  display: none;
+}
+
+section {
+width: auto;
+float: none;
+padding-bottom: 0px;
+}
+
+* {box-sizing:border-box}
